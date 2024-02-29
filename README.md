@@ -8,6 +8,4 @@ Projeto feito em Clojure e Java que permite a realização de requisições HTTP
 
 * Clojure
 * Java
-* Compojure
-* Cheshire
-* Lein-Ring
+* Dependências Clojure: Compojure, Cheshire e Lein-Ring
