@@ -6,8 +6,8 @@ Projeto feito em Clojure e Java que permite a realização de requisições HTTP
 
 ## Tecnologias utilizadas
 
-*Clojure
-*Java
-*Compojure
-*Cheshire
-*Lein-Ring
+* Clojure
+* Java
+* Compojure
+* Cheshire
+* Lein-Ring
