@@ -1,6 +1,5 @@
-# trabalho
+# Arquivos Clojure
 
-FIXME
 
 ## Prerequisites
 
